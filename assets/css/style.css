@@ -6,6 +6,16 @@ body{
 }
 .header{
    text-align: center;
+   width: 100%;
+   height: 20%;
+   margin: 0%;
+}
+.footer{
+    text-align: center;
+    height: 20%;
+    width: 100%;
+    background-color: white;
+    color: darkgreen;
 }
 .rock{
     color:  blueviolet;
@@ -30,4 +40,14 @@ body{
     font-size: 4.5rem;
     margin: 0 auto;
     transition: all 0.5s;
+}
+/* this code has been taken from love maths project*/
+.game-area{
+    height: 60%;
+    width: 100%;
+    background-color: darkslategray;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-top: 1%;
+    text-align: center;
 }
