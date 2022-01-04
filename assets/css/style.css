@@ -9,6 +9,7 @@ body{
    width: 100%;
    height: 20%;
    margin: 0%;
+   padding: 0%;
 }
 .footer{
     text-align: center;
@@ -50,4 +51,15 @@ body{
     margin-right: auto;
     margin-top: 1%;
     text-align: center;
+}
+.player{
+    background-color: cornflowerblue;l 
+    float: left;
+    width: 45%;
+}
+.comp{
+    background-color: crimson;
+    
+    float:right;
+    width: 45%;
 }
